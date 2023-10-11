@@ -1,0 +1,35 @@
+*{
+  padding: 0;margin: 0;
+}
+#bgGround{
+  width: 100vw;
+  height:100vh;
+}
+.chocolate{
+  background:chocolate;
+}
+.purple{
+  background: purple;
+}
+.maroon{
+  background: maroon;
+}
+.yellow{
+  background:orange;
+}
+.pink{
+  background: pink;
+}
+.magenta{
+background: magenta;
+}
+#buttonBar{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom:5rem;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
